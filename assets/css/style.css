@@ -1,0 +1,11 @@
+/* img {
+    float: left; 
+  } */
+  body {
+      background-color: rgb(200, 255, 255);
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+#tigerIcon {
+    width: 100%;
+    margin: 5px;
+}
