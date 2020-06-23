@@ -1,7 +1,7 @@
 # giphy-animal-search
-https://pattenbranden.github.io/giphy-animal-search/ <br>
-In this project, I used the giphy API to hookup a simple search to display animal gifs.<br>
-Play and pause gifs by clicking on them!
+Search for giphs using the GIPHY API. Type in your search query and click 'Add animal!' to create a new button.
+Each time you click an animal button, an API request is made using the term associated with the button.
+The request is limited to 10 .gif images. clicking on an image will pause and play the gif.
 
 ## Getting Started
 
@@ -41,4 +41,4 @@ You should have a browser window open with the locally run application.
 
 * **Branden Patten** - *Initial work* - [PattenBranden](https://github.com/pattenbranden)
 
-See also the list of [contributors](https://github.com/pattenbranden/React-Clicky-Game/graphs/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/pattenbranden/giphy-animal-search/graphs/contributors) who participated in this project.
